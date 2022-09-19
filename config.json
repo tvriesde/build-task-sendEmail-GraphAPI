@@ -2,4 +2,5 @@
   "firstName": "John",
   "lastName": "Doe",
   "password": "JohnsPassword123"
+  "aws_key": "1780ba30-37ed-11ed-a261-0242ac120002"
 }
